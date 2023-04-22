@@ -46,7 +46,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
-some sample photos from the website
+### Some sample photos from the website
 ![image](https://user-images.githubusercontent.com/89755021/233784808-625bdf2b-b61c-4ae7-b8e8-e658071816a1.png)
 
 ![image](https://user-images.githubusercontent.com/89755021/233784797-258382e9-2be5-4453-b948-304966abf6a9.png)
